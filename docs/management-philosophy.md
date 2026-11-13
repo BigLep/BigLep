@@ -1,6 +1,8 @@
-
-
 # Management philosophy
+
+![A community barn raising: dozens of people standing in front of a newly raised timber barn frame, with more on the beams, around 1900](images/management-philosophy.jpg)
+
+*Barn raising in Lansing (now North York), Toronto, around 1900. Photo by Alexander W. Galbraith, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barn_raising_in_Lansing.jpg).*
 
 Written in December 2020, near the end of my time at Amazon, and published here unchanged apart from typo fixes. An update reflecting Protocol Labs and FilOz is on my list.
 
