@@ -1,23 +1,17 @@
-# Purpose
-This repository captures some notes about me, Steve Loeppky.  
+# Steve Loeppky
 
-# Links About Me
-1. [LinkedIn](https://www.linkedin.com/in/steveloeppky/)
-2. Management Philosophy
- - [Google Doc](https://docs.google.com/document/d/1JMFc6KUGk9LyeLJeHbYTJEc8Mk7HcOY0KfZzLJ0-kH0/edit?usp=sharing)
+Engineering manager and TPM. I bring order and humanity to chaos for engineering teams. Seattle based, and very comfortable and experienced working remote and async. My career story is on [LinkedIn](https://www.linkedin.com/in/steveloeppky/); this page is about the work itself.
 
-# Why use GitHub vs. blog, website, LinkedIn, etc.
-There's nothing mission critical here as to why, but the initial reasons are:
-1. Provides easy access to an issue tracker for any improvements I want to do around this space.
-2. If I bring code to this problem, I have a natural place to put it.
-3. Fits with the desire not just to show the end product but also the process on how got there.
+## Where my GitHub activity goes
 
-# Why are there lots of links to Google Docs?
-For expediency, I author many of my documents in Google Docs because it provides:
-1. provides quick formatting
-2. good table of contents with navigation
-3. solid mobile client for edit/view
-4. multiple document types including Sheets
+Most of my activity since 2021 falls into three areas:
 
-# Related
-1. https://github.com/batmany13/about-me - Where it first occurred to me to share more of my management philosophy thoughts and to do it on GitHub.
+- **Web3 and decentralized infrastructure (most of it).** Filecoin with [FilOz](https://github.com/FilOzone) (2024 to now) and IPFS and libp2p with Protocol Labs (2021 to 2024). Mostly issues, reviews, release and network upgrade coordination, project management, and repo hygiene, plus some code.
+- **Personal productivity.** Small tools and automations for my own work and life: time tracking and invoicing, tax reporting, and mail merge.
+- **Volunteer work and hobbies.** Tools for coaching middle school ultimate frisbee: rosters, signups, and coach communication ([madison-ultimate](https://github.com/BigLep/madison-ultimate), [madison-ultimate-admin](https://github.com/BigLep/madison-ultimate-admin)).
+
+The contribution graph counts commits, opened issues and PRs, and reviews. Much of my work is in comments, which it doesn't count. Live views: [issues and PRs I've commented on](https://github.com/search?q=commenter%3ABigLep&type=issues&s=updated), [PRs I've reviewed](https://github.com/search?q=reviewed-by%3ABigLep&type=pullrequests&s=updated), [issues I've opened](https://github.com/search?q=author%3ABigLep+is%3Aissue&type=issues&s=updated).
+
+## How I work
+
+- [Management philosophy](docs/management-philosophy.md) (written December 2020)
