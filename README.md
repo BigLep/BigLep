@@ -3,9 +3,7 @@ This repository captures some notes about me, Steve Loeppky.
 
 # Links About Me
 1. [LinkedIn](https://www.linkedin.com/in/steveloeppky/)
-2. Resume
- - [Google Drive PDF](https://drive.google.com/file/d/1xqxdiq0urKfaHH9qjY6CngHjvRJ3RHfE/view?usp=sharing)
-3. Management Philosophy
+2. Management Philosophy
  - [Google Doc](https://docs.google.com/document/d/1JMFc6KUGk9LyeLJeHbYTJEc8Mk7HcOY0KfZzLJ0-kH0/edit?usp=sharing)
 
 # Why use GitHub vs. blog, website, LinkedIn, etc.
